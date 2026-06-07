@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hello to all, I'm Gizem ✨
+About Me 
+- 4th year Management Information Systems student in Yeditepe University.
+- 3rd year E-Commerce Management student (double major).
+- Currently seeking a summer internship
+
+
+
 
 <!--
 **gizemdogan5/gizemdogan5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
